@@ -23,35 +23,7 @@
 		<body>
 			<div type="prose">
 				<pb facs="https://raw.githubusercontent.com/kmabennett/leaf_workshops/main/exercises/Hanmer1.v1-CorruptionsImage.JPG"/>
-				<head>Sample Title</head></div>
-				<div type="text"><p>WHAT the Publick is here to expect is a  </p><p>true and correct Edition of Shakespear's</p><p>works cleared from the corruptions with </p><p>which they have hitherto abounded. One of the great </p><p/></div>
-			<div type="notes">
-				<head>Notes</head>
-				<note n="1" type="scholarlyNote">The poem has a suggestion of the magical imagery of Kenneth Leslie?s By Stubborn Stars.</note>
-				<note n="2" type="scholarlyNote">The <title ref="http://viaf.org/viaf/179269842" level="m">Oxford Dictionary of National Biography</title> argues the author did not publish this text before<date cert="high" when="1934">1934</date>.</note>
-				<note n="3" type="scholarlyNote">Sample footnote.</note>
-			</div>
-			<div type="annotations">
-				<head>Annotations and Keywords</head>
-				<note type="researchNote">These annotations can be added to the prose content or in a separate section</note>
-				<note type="link">Poem featured in <ref target="http://cufts2.lib.sfu.ca/CRDB4/BVAS/resource/5724">Canada's Early Women Writers</ref>
-				</note>
-				<note type="keyword">Sample annotation</note>
-				<note type="correction">Sample correction</note>
-				<note type="indexTerm">Sample index term</note>
-				<note type="translation">Sample translation</note>
-			</div>
-			<div type="works">
-				<head>
-					<choice><sic>
-						 Works Cited  
-						
-					</sic><corr>Bibliography</corr></choice>
-				</head>
-				<note>The New Monthly Magazine. Alternate Titles: The New Monthly Magazine and Universal Register; The New Monthly Magazine and Literary Journal; Colburn's New Monthly Magazine; The New Monthly Magazine and Humorist.London:H. Colburn;<orgName cert="medium" ref="http://viaf.org/viaf/151283596">Chapman and Hall</orgName>;John Bale and Sons,1814-1884.</note>
-				<note>Sample bibliographic record: <persName cert="high" type="real" ref="http://viaf.org/viaf/78272387">McLaren, Floris Clark</persName>. Glimpse. Canadian Poetry Magazine1.1(1936):23.</note>
-				<note>Sample bibliographic record: McLaren, Floris Clark. Glimpse. Canadian Poetry Magazine1.1(1936):23.Volume I: 1450-1625, Volume II: 1625-1700, Volume III: 1700-1800, Volume IV: 1800-1900, Volume V: Indexes of Titles, First Lines, Names, Repositories</note>
-			</div>
-		</body>
+				<head>Hanmer Excerpt: Light Demo</head></div>
+				<div type="text"><p>WHAT the Publick is here to expect is a  </p><p>true and correct Edition of Shakespear's</p><p>works cleared from the corruptions with </p><p>which they have hitherto abounded. One of the great </p><p/></div></body>
 	</text>
 </TEI>
